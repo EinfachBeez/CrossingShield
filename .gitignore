@@ -1,0 +1,7 @@
+Drivers/
+Includes/
+.settings/
+*.ld
+.cproject
+.mxproject
+.project
