@@ -1,7 +1,9 @@
 Drivers/
 Includes/
+Debug/
 .settings/
 *.ld
+*.launch
 .cproject
 .mxproject
 .project
